@@ -28,7 +28,7 @@ const Header = () => {
                            </div>
                            <div className="col-md-5">
                               <h1 className="banner_taital">Descrição das Vagas</h1>
-                              <p className="banner_text">As vagas possuem telhado e amplo espaço, para sua tranquilidade, posteriormente serão incluídas câmeras de monitoramento. </p>
+                              <p className="banner_text">As vagas possuem telhado e amplo espaço. Para sua tranquilidade, posteriormente serão incluídas câmeras de monitoramento. </p>
                            </div>
                         </div>
                      </div>
