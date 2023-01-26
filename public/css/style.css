@@ -380,7 +380,7 @@ button {
     width: 100%;
     float: left;
     font-size: 16px;
-    color: #000;
+    color: #fff;
     margin: 0px;
 }
 
@@ -405,7 +405,15 @@ button {
     background-color: #ffffff;
 }
 
-
+#myDIV {
+    display: none;
+    width: 100%;
+    padding: 50px 0;
+    text-align: center;
+    background-color: #ffff;
+    margin-top: 0px;
+}
+  
 #main_slider a.carousel-control-prev {
     left: 88%;
     top: 60%;

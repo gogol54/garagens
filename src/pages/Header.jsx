@@ -15,7 +15,7 @@ const Header = () => {
                           </div>
                            <div className="col-md-5">
                               <h1 className="banner_taital">Seu carro seguro o ano inteiro</h1>
-                              <p className="banner_text" > Disponibilizamos garagens para maior segurança do seu carro. </p>
+                              <p className="banner_text" > Disponibilizamos de estacionamento para maior segurança do seu carro. </p>
                            </div>
                         </div>
                      </div>
@@ -24,11 +24,11 @@ const Header = () => {
                      <div className="container">
                         <div className="row">
                            <div className="col-md-7">
-                              <div className="image_1"><img alt="fotodagaragem" src="./images/right.jpg" style={{borderRadius: '10px'}}/></div>
+                              <div className="image_1"><img alt="fotodagaragem" src="./images/right3.jpg"/></div>
                            </div>
                            <div className="col-md-5">
                               <h1 className="banner_taital">Descrição das Vagas</h1>
-                              <p className="banner_text">As vagas possuem telhado e cercados com palanques, serão incluídas câmeras para monitoramento do lugar. </p>
+                              <p className="banner_text">As vagas possuem telhado e amplo espaço, para sua tranquilidade, posteriormente serão incluídas câmeras de monitoramento. </p>
                            </div>
                         </div>
                      </div>
