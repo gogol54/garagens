@@ -33,7 +33,7 @@ const MidBox = () => {
                   </div>
                   <div className="col-md-6">
                      <h1 className="cycles_text">Mensal</h1>
-                     <p className="lorem_text">Os aluguéis mensais consistem garantem a utilização nos dias úteis e finais de semana e/ou feriados.</p>
+                     <p className="lorem_text">Os aluguéis mensais consistem na utilização do estacionamento nos dias úteis e finais de semana e/ou feriados, porém esta opção não garante o controle remoto do portão, sendo assim, o acesso é permitido mediante avisos ao proprietário ou durante o horário comercial, onde em toda parte do tempo estará aberto em razão das demais vagas já aluagadas.</p>
                      <div className="btn_main">
                         <h4 className="price_text">Preço <span style={{color: '#f7c17b'}}>R$</span> <span style={{color:'#325662'}}>150/mês</span></h4>
                      </div>
@@ -45,7 +45,7 @@ const MidBox = () => {
                <div className="row">
                   <div className="col-md-6">
                      <h1 className="cycles_text"> Anual</h1>
-                     <p className="lorem_text">Assim como os aluguéis mensais, este possui total disponibilidade, entretanto, no plano anual é fornecido um controle para acessar o estacionamento sem qualquer aviso prévio, dia ou hora do ano contratado.</p>
+                     <p className="lorem_text">Assim como os aluguéis mensais, este possui total disponibilidade de dias, entretanto, no plano anual é fornecido um controle para acessar o estacionamento sem qualquer mediação com o proprietário e/ou responsável durante o ano contratado.</p>
                      <div className="btn_main">
                         <h4 className="price_text">Preço <span style={{color: '#f7c17b'}}>R$</span> <span style={{color:'#325662'}}>120/mês</span></h4>
                      </div>
