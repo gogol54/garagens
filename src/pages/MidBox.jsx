@@ -33,7 +33,7 @@ const MidBox = () => {
                   </div>
                   <div className="col-md-6">
                      <h1 className="cycles_text">Mensal</h1>
-                     <p className="lorem_text">Os aluguéis mensais consistem na utilização do estacionamento durante todas as manhãs e tardes do mês (horário comercial), a renoção é automática e ocorre a cada 30 dias. Caso contrário, se o locatário optar pela não renovação, este deve comunicar o locador com uma semana de antecedência.  </p>
+                     <p className="lorem_text">Os aluguéis mensais consistem na utilização do estacionamento durante todas as manhãs e tardes do mês (horário comercial), a renovação é automática e ocorre a cada 30 dias. Caso contrário, se o locatário optar pela não renovação, este deve comunicar o locador com uma semana de antecedência.  </p>
                      <div className="btn_main">
                         <h4 className="price_text">
                            Preços  
