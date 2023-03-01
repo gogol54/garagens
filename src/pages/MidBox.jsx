@@ -33,9 +33,16 @@ const MidBox = () => {
                   </div>
                   <div className="col-md-6">
                      <h1 className="cycles_text">Mensal</h1>
-                     <p className="lorem_text">Os aluguéis mensais consistem na utilização do estacionamento nos dias úteis e finais de semana e/ou feriados, porém esta opção não garante o controle remoto do portão, sendo assim, o acesso é permitido mediante avisos ao proprietário ou durante o horário comercial, onde em toda parte do tempo estará aberto em razão das demais vagas já aluagadas.</p>
+                     <p className="lorem_text">Os aluguéis mensais consistem na utilização do estacionamento durante todas as manhãs e tardes do mês (horário comercial), a renoção é automática e ocorre a cada 30 dias. Caso contrário, se o locatário optar pela não renovação, este deve comunicar o locador com uma semana de antecedência.  </p>
                      <div className="btn_main">
-                        <h4 className="price_text">Preço <span style={{color: '#f7c17b'}}>R$</span> <span style={{color:'#325662'}}>150/mês</span></h4>
+                        <h4 className="price_text">
+                           Preços  
+                           <span style={{color: '#f7c17b', margin:'5px'}}>R$</span> 
+                           <span style={{color:'#325662'}}>
+                              120
+                           <img src='https://cdn-icons-png.flaticon.com/512/171/171239.png' alt='icone de um carro' height='35px' width='35px'/><br/>
+                              ou    <span style={{color: '#f7c17b', margin:'5px'}}>R$</span> 50
+                           <img src='https://images.vexels.com/media/users/3/152603/isolated/preview/9f2ea8f15f94ee92c264ac069c0660c8-cone-de-moto-scooter-retr.png' alt='icone de uma moto' height='35px' width='35px'/></span></h4> 
                      </div>
                   </div>
                </div>
@@ -45,9 +52,16 @@ const MidBox = () => {
                <div className="row">
                   <div className="col-md-6">
                      <h1 className="cycles_text"> Anual</h1>
-                     <p className="lorem_text">Assim como os aluguéis mensais, este possui total disponibilidade de dias, entretanto, no plano anual é fornecido um controle para acessar o estacionamento sem qualquer mediação com o proprietário e/ou responsável durante o ano contratado.</p>
+                     <p className="lorem_text">Assim como os aluguéis mensais, este possui total disponibilidade durante o horário comercial, entretanto, a validade é de 12 meses e o renovamento acontece somente no término do contrato. O cancelamento deste plano exige aviso prévio de 30 dias.</p>
                      <div className="btn_main">
-                        <h4 className="price_text">Preço <span style={{color: '#f7c17b'}}>R$</span> <span style={{color:'#325662'}}>120/mês</span></h4>
+                        <h4 className="price_text">
+                           Preços  
+                           <span style={{color: '#f7c17b', margin:'5px'}}>R$</span> 
+                           <span style={{color:'#325662'}}>
+                              100
+                           <img src='https://cdn-icons-png.flaticon.com/512/171/171239.png' alt='icone de um carro' height='35px' width='35px'/><br/>
+                              ou    <span style={{color: '#f7c17b', margin:'5px'}}>R$</span> 50
+                           <img src='https://images.vexels.com/media/users/3/152603/isolated/preview/9f2ea8f15f94ee92c264ac069c0660c8-cone-de-moto-scooter-retr.png' alt='icone de uma moto' height='35px' width='35px'/></span></h4> 
                      </div>
                   </div>
                   <div className="col-md-6">
