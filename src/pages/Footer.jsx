@@ -88,7 +88,10 @@ const Footer = () => {
 
       <div className="copyright_section">
          <div className="container">
-          <p className="copyright_text">Copyright 2019 All Right Reserved By.</p>
+          <p className="copyright_text" style={{color:'#262626'}}>
+            © 2023 Cesar Garagens - <a style={{color:'#262626'}} href='https://jardeleko.github.io/portfolio/'>
+            Todos os direitos reservados.</a>
+          </p>
          </div>
       </div>
     </div>
